@@ -1,7 +1,6 @@
 ---
 title: Experiencing Google Code-in 2017 
 date: "2018-01-18T11:44:25.759Z"
-draft: true
 
 gallery: [
     'https://developers.google.com/open-source/gci/resources/downloads/GCI-new-logo.jpg',

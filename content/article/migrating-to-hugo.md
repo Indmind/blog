@@ -1,7 +1,6 @@
 ---
 title: "Migrating to Hugo"
 date: 2018-01-30T12:19:40+07:00
-draft: true
 
 featuredImage: ""
 categories: ["personal"]
