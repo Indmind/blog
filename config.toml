@@ -1,5 +1,6 @@
 title = "Indmind Blog"
-baseURL = "https://indmind.github.io"
+baseURL = "https://indmind.github.io/"
+relativeURLs = true
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
@@ -11,6 +12,8 @@ googleAnalytics = "UA-112637824-1"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = "indmindBlog"
+
+publishDir = "docs"
 
 [params]
   # Favicon for the browser's favorites and tabs
