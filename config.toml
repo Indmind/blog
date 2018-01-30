@@ -11,7 +11,7 @@ DefaultContentLanguage = "en"
 googleAnalytics = "UA-112637824-1"
 
 # Enable / Disable comments on the articles via Disqus.
-disqusShortname = "indmindBlog"
+disqusShortname = "https-indmind-github-io-blog"
 
 publishDir = "docs"
 
