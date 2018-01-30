@@ -1,5 +1,5 @@
 title = "Indmind Blog"
-baseURL = "https://indmind.github.io/blog/"
+baseURL = "https://indmind.github.io"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
@@ -11,8 +11,6 @@ googleAnalytics = "UA-112637824-1"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = "indmindBlog"
-
-publishDir = "docs"
 
 [params]
   # Favicon for the browser's favorites and tabs
@@ -35,6 +33,12 @@ publishDir = "docs"
 
   # Enable / Disable MathJax
   enable_mathjax    = false
+
+  # Enable / Disable algolia search
+  algolia_search    = true
+  algolia_appId     = "C2WIWENHS3"
+  algolia_apiKey    = "8baf73df8b4e7eb882b6b5c1d8e8b976"
+  algolia_indexName = "prod_BLOG"
 
   # Header configuration
     # your subtitle if you want to use any
