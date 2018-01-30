@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://indmind.github.io/gallery/learning-golang/</loc>
+    <loc>https://indmind.github.io/article/learning-golang/</loc>
     <lastmod>2018-01-29T13:04:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://indmind.github.io/gallery/experiencing-google-code-in-2017/</loc>
+    <loc>https://indmind.github.io/article/experiencing-google-code-in-2017/</loc>
     <lastmod>2018-01-18T11:44:25+00:00</lastmod>
   </url>
   
@@ -41,12 +41,6 @@
   <url>
     <loc>https://indmind.github.io/tags/codein/</loc>
     <lastmod>2018-01-18T11:44:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://indmind.github.io/gallery/</loc>
-    <lastmod>2018-01-29T13:04:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   

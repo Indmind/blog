@@ -2,9 +2,7 @@
 title: Learning Golang
 date: "2018-01-29T13:04:58.087Z"
 
-gallery: [
-    'https://orig00.deviantart.net/dcee/f/2014/154/a/0/go_lang_mascot_by_kirael_art-d7kunhu.gif',
-]
+featuredImage: "https://orig00.deviantart.net/dcee/f/2014/154/a/0/go_lang_mascot_by_kirael_art-d7kunhu.gif"
 categories: ["personal"]
 tags: ["tech", "golang", "programming"]
 author: "indmind"
