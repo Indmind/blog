@@ -8,7 +8,7 @@
     var base = {{ .Permalink }}
 
     {{ if not (in (.Site.BaseURL | string) "localhost") }}
-      base += "/blog/"
+      base += "blog"
     {{ end }}
 
     $('#search').autocomplete({ hint: false, autoselect: true, debug: false },
