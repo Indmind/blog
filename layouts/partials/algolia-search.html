@@ -5,10 +5,10 @@
 <script>
     var client = algoliasearch({{ .Site.Params.algolia_appId }}, {{ .Site.Params.algolia_apiKey}});
     var index = client.initIndex({{ .Site.Params.algolia_indexName }});
-    var base = {{ .Permalink }}
+    var base = "";
 
     {{ if not (in (.Site.BaseURL | string) "localhost") }}
-      base += "blog"
+      base = "{{ .Site.BaseURL}}blog"
     {{ end }}
 
     $('#search').autocomplete({ hint: false, autoselect: true, debug: false },
