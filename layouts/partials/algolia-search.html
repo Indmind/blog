@@ -38,12 +38,12 @@
       ])
       .on('autocomplete:selected', function(event, suggestion, dataset) {
         console.log(suggestion.url);
-        //window.location = (suggestion.url);
+        window.location = (suggestion.url);
       })
       .keypress(function (event, suggestion) {
         if (event.which == 13) {
           console.log(suggestion.url);
-          //window.location = (suggestion.url);
+          window.location = (suggestion.url);
         }
       });
 </script>
