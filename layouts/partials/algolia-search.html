@@ -5,11 +5,11 @@
 <script>
     var client = algoliasearch({{ .Site.Params.algolia_appId }}, {{ .Site.Params.algolia_apiKey}});
     var index = client.initIndex({{ .Site.Params.algolia_indexName }});
-    // var base = {{ .Permalink }}
+    var base = {{ .Permalink }}
 
-    // {{ if not (in (.Site.BaseURL | string) "localhost") }}
-    //   base += "blog"
-    // {{ end }}
+    {{ if not (in (.Site.BaseURL | string) "localhost") }}
+      base += "blog"
+    {{ end }}
 
     $('#search').autocomplete({ hint: false, autoselect: true, debug: false },
       [
@@ -37,13 +37,13 @@
         }
       ])
       .on('autocomplete:selected', function(event, suggestion, dataset) {
-        console.log(suggestion.url);
-        window.location = (suggestion.url);
+        console.log(base + suggestion.url);
+        window.location = (base + suggestion.url);
       })
       .keypress(function (event, suggestion) {
         if (event.which == 13) {
-          console.log(suggestion.url);
-          window.location = (suggestion.url);
+          console.log(base + suggestion.url);
+          window.location = (base + suggestion.url);
         }
       });
 </script>
