@@ -1,5 +1,6 @@
 title = "Indmind Blog"
-baseURL = "https://indmind.github.io/blog/"
+baseURL = "https://indmind.github.io/"
+relativeURLs = true
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
