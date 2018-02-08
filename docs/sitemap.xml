@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://indmind.github.io/project/piring/</loc>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/project/akt/</loc>
+    <lastmod>2018-02-08T15:38:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/project/pfive/</loc>
+    <lastmod>2018-02-08T15:09:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/project/jawaskrip/</loc>
+    <lastmod>2018-02-08T15:08:27+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/article/migrating-to-hugo/</loc>
     <lastmod>2018-01-30T12:19:40+07:00</lastmod>
   </url>
@@ -23,6 +43,12 @@
   </url>
   
   <url>
+    <loc>https://indmind.github.io/tags/algorithm/</loc>
+    <lastmod>2018-02-08T15:38:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/article/</loc>
     <lastmod>2018-01-30T12:19:40+07:00</lastmod>
     <priority>0</priority>
@@ -34,7 +60,20 @@
   </url>
   
   <url>
+    <loc>https://indmind.github.io/categories/bahasa-indonesia/</loc>
+    <lastmod>2018-02-08T15:08:27+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/categories/</loc>
+    <lastmod>2018-02-08T15:08:27+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/code/</loc>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,8 +84,20 @@
   </url>
   
   <url>
+    <loc>https://indmind.github.io/tags/file-transfer/</loc>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/ftp/</loc>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/tags/golang/</loc>
-    <lastmod>2018-01-29T13:04:58+00:00</lastmod>
+    <lastmod>2018-02-08T15:38:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,13 +115,31 @@
   
   <url>
     <loc>https://indmind.github.io/author/indmind/</loc>
-    <lastmod>2018-01-30T12:19:40+07:00</lastmod>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://indmind.github.io/</loc>
-    <lastmod>2018-01-30T12:19:40+07:00</lastmod>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/indonesia/</loc>
+    <lastmod>2018-02-08T15:38:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/js/</loc>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/p5.js/</loc>
+    <lastmod>2018-02-08T15:09:48+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,7 +157,25 @@
   
   <url>
     <loc>https://indmind.github.io/tags/programming/</loc>
-    <lastmod>2018-01-29T13:04:58+00:00</lastmod>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/categories/project/</loc>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/project-manager/</loc>
+    <lastmod>2018-02-08T15:09:48+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/project/</loc>
+    <lastmod>2018-02-08T15:40:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -100,13 +187,19 @@
   
   <url>
     <loc>https://indmind.github.io/tags/</loc>
-    <lastmod>2018-01-18T11:44:25+00:00</lastmod>
+    <lastmod>2018-02-08T15:38:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://indmind.github.io/tags/tech/</loc>
     <lastmod>2018-01-30T12:19:40+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/transpiler/</loc>
+    <lastmod>2018-02-08T15:08:27+07:00</lastmod>
     <priority>0</priority>
   </url>
   
