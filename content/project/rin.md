@@ -31,6 +31,12 @@ author: "Indmind"
     <a href="https://david-dm.org/indmind/rin" title="dependencies status">
         <img src="https://david-dm.org/indmind/rin/status.svg" alt="Dependencies Status"/>
     </a>
+    <a href="https://github.com/prettier/prettier" title="dependencies status">
+        <img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="Styled With Prettier"/>
+    </a>
+    <a href="http://makeapullrequest.com" title="dependencies status">
+        <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
+    </a>
 </p>
 
 <h2>Installation</h2>
@@ -43,15 +49,23 @@ Install all dependencies using <a href="https://www.npmjs.com/">npm</a>
 
 `$ npm run build`
 
-<h2>Development</h2>
+<h2 id="dev">Development</h2>
 
-`$ STATUS=debug npm start` 
+`cp .env.example .env`
 
-it will use cli.js, so you don't need to use telegram or discord for debugging
+add your token to `.env`
 
-for discord or telegram set `TELEGRAM_TOKEN` or `DISCORD_TOKEN` 
+use cli.js (`process.arv`) as input
 
-`$ DISCORD_TOKEN=your_discord_token TELEGRAM_TOKEN=your_telegram_token npm start`
+`$ STATUS=debug npm start calc 1 + 1`
+
+for discord or telegram set `TELEGRAM_TOKEN` or `DISCORD_TOKEN` in `.env`
+
+`$ npm run dev` auto reload (use telegram or discord based on given token)
+
+build and start `main.js` from build
+
+`$ npm start`
 
 you can just add `DISCORD_TOKEN` without `TELEGRAM_TOKEN`
 
@@ -130,7 +144,7 @@ export default class Command{
 
 for helper, create a method in Rin class `src/core/rin.js`
 
-always run `$ npm run fix` if you want to create a PR
+always run `$ npm run lint` if you want to create a PR
 
 <h2>Testing</h2>
 
@@ -142,8 +156,9 @@ create a unit test in `test/command` folder for subcommand testing and `test/__d
 
 1. Fork this repository
 2. Create a feature branch (_never edit your master branch_) `$ git checkout -b add-eat-command`
-3. Push your changes `$ git push origin add-eat-command`
-4. Create a pull request
+3. Create your features, see: [development](#dev) section
+4. Push your changes `$ git push origin add-eat-command`
+5. Create a pull request
 
 I am very happy if you want to contribute!
 
@@ -152,4 +167,3 @@ I am very happy if you want to contribute!
 This project is licensed under the terms of the MIT license.
 
 Image License: I don't know
-

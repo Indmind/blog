@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://indmind.github.io/quote/mitch-ratcliffe-quote/</loc>
+    <lastmod>2018-03-09T09:47:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/audio/tanah-air-edm-gamelan/</loc>
+    <lastmod>2018-03-09T09:40:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/project/rata/</loc>
+    <lastmod>2018-03-09T09:35:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/audio/so-far-away-martin-garrix/</loc>
+    <lastmod>2018-03-09T09:25:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/quote/bill-gates-code/</loc>
+    <lastmod>2018-03-09T09:15:01+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/project/rin/</loc>
     <lastmod>2018-02-23T21:54:08+07:00</lastmod>
   </url>
@@ -48,6 +73,12 @@
   </url>
   
   <url>
+    <loc>https://indmind.github.io/author/alffy-rev-ft-brisia-jodie-gasita-karawitan/</loc>
+    <lastmod>2018-03-09T09:40:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/tags/algorithm/</loc>
     <lastmod>2018-02-08T15:38:38+07:00</lastmod>
     <priority>0</priority>
@@ -60,13 +91,26 @@
   </url>
   
   <url>
+    <loc>https://indmind.github.io/audio/</loc>
+    <lastmod>2018-03-09T09:40:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/author/</loc>
+    <lastmod>2018-03-09T09:40:21+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://indmind.github.io/categories/bahasa-indonesia/</loc>
     <lastmod>2018-02-08T15:08:27+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/author/bill-gates/</loc>
+    <lastmod>2018-03-09T09:15:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,6 +139,12 @@
   </url>
   
   <url>
+    <loc>https://indmind.github.io/tags/computers/</loc>
+    <lastmod>2018-03-09T09:47:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/tags/discord/</loc>
     <lastmod>2018-02-23T21:54:08+07:00</lastmod>
     <priority>0</priority>
@@ -109,6 +159,18 @@
   <url>
     <loc>https://indmind.github.io/tags/ftp/</loc>
     <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/future-bass/</loc>
+    <lastmod>2018-03-09T09:25:05+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/futurepop/</loc>
+    <lastmod>2018-03-09T09:25:05+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -132,13 +194,13 @@
   
   <url>
     <loc>https://indmind.github.io/author/indmind/</loc>
-    <lastmod>2018-02-23T21:54:08+07:00</lastmod>
+    <lastmod>2018-03-09T09:35:05+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://indmind.github.io/</loc>
-    <lastmod>2018-02-23T21:54:08+07:00</lastmod>
+    <lastmod>2018-03-09T09:47:21+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -149,8 +211,32 @@
   </url>
   
   <url>
+    <loc>https://indmind.github.io/tags/javascript/</loc>
+    <lastmod>2018-03-09T09:35:05+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/tags/js/</loc>
     <lastmod>2018-02-08T15:40:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/author/martin-garrix---david-guetta/</loc>
+    <lastmod>2018-03-09T09:25:05+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/author/mitch-ratcliffe/</loc>
+    <lastmod>2018-03-09T09:47:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/categories/music/</loc>
+    <lastmod>2018-03-09T09:40:21+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -192,7 +278,7 @@
   
   <url>
     <loc>https://indmind.github.io/categories/project/</loc>
-    <lastmod>2018-02-23T21:54:08+07:00</lastmod>
+    <lastmod>2018-03-09T09:35:05+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -204,13 +290,25 @@
   
   <url>
     <loc>https://indmind.github.io/project/</loc>
-    <lastmod>2018-02-23T21:54:08+07:00</lastmod>
+    <lastmod>2018-03-09T09:35:05+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/quote/</loc>
+    <lastmod>2018-03-09T09:47:21+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://indmind.github.io/tags/ssg/</loc>
     <lastmod>2018-01-30T12:19:40+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/string/</loc>
+    <lastmod>2018-03-09T09:35:05+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,8 +331,26 @@
   </url>
   
   <url>
+    <loc>https://indmind.github.io/tags/thought/</loc>
+    <lastmod>2018-03-09T09:15:01+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/tidy/</loc>
+    <lastmod>2018-03-09T09:35:05+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://indmind.github.io/tags/transpiler/</loc>
     <lastmod>2018-02-08T15:08:27+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://indmind.github.io/tags/trap/</loc>
+    <lastmod>2018-03-09T09:40:21+07:00</lastmod>
     <priority>0</priority>
   </url>
   
