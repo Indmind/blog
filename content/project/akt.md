@@ -3,12 +3,12 @@ title: "Angka ke Terbilang"
 date: 2018-02-08T15:38:38+07:00
 
 projectURL: "https://github.com/indmind/akt"
-categories: ["project"]
+categories: ["Project"]
 tags: ["golang", "indonesia", "algorithm"]
 author: "Indmind"
 ---
 
- [Golang](https://golang.org/) library to convert number to Indonesian word (spelled out)
+[Golang](https://golang.org/) library to convert number to Indonesian word (spelled out)
 
 ### Installation
 

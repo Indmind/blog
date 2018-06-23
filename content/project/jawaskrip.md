@@ -2,8 +2,9 @@
 title: "Jawaskrip"
 date: 2018-02-08T15:08:27+07:00
 
+description: "ngoding Bahasa Indonesia"
 projectURL: "https://github.com/indmind/jawaskrip"
-categories: ["project", "bahasa indonesia"]
+categories: ["Project", "Bahasa Indonesia"]
 tags: ["js", "transpiler", "code", programming"]
 author: "Indmind"
 ---

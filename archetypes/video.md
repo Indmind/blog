@@ -3,7 +3,7 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 
 featuredImage: ""
-categories: []
+categories: ["Video"]
 author: ""
 
 # Set your video id for

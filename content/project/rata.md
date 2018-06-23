@@ -2,13 +2,12 @@
 title: "Rata"
 date: 2018-03-09T09:35:05+07:00
 
+description: "Tidy up your string list"
 projectURL: "https://github.com/indmind/rata"
 categories: ["Project"]
 tags: ["String", "Tidy", "JavaScript"]
 author: "Indmind"
 ---
-
-Tidy up your string list
 
 # Installation
 

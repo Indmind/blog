@@ -6,7 +6,7 @@ gallery: [
     '/images/picture1.jpg',
     '/images/picture2.jpg',
     ]
-categories: []
+categories: ["Gallery"]
 tags: []
 author: ""
 ---

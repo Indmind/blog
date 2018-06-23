@@ -2,9 +2,10 @@
 title: "Rin"
 date: 2018-02-23T21:54:08+07:00
 
+description: "a simple multi-burpose bot"
 featuredImage:  "/images/rin.png"
 projectURL: "https://github.com/indmind/rin"
-categories: ["project", "open source friendly"]
+categories: ["Project", "Open Source Friendly"]
 tags: ["bot", "discord", "telegram", "nodejs"]
 author: "Indmind"
 ---
@@ -14,30 +15,6 @@ author: "Indmind"
   <br>
   <sub><sup>a simple multi-burpose bot</sup></sub>
 </h1>
-
-<p align="center">
-    <a href="https://travis-ci.org/indmind/rin">
-        <img src="https://travis-ci.org/indmind/rin.svg?branch=master" alt="Build Status">
-    </a>
-    <a href="https://github.com/indmind/rin/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-    </a> 	
-    <a href="https://www.npmjs.com/package/standard">
-      <img src="https://img.shields.io/npm/v/npm.svg" alt="Npm Version">
-    </a>
-    <a href="https://nodejs.org/en/download/releases/">
-      <img src="https://img.shields.io/node/v/passport.svg" alt="Node Version">
-    </a>
-    <a href="https://david-dm.org/indmind/rin" title="dependencies status">
-        <img src="https://david-dm.org/indmind/rin/status.svg" alt="Dependencies Status"/>
-    </a>
-    <a href="https://github.com/prettier/prettier" title="dependencies status">
-        <img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="Styled With Prettier"/>
-    </a>
-    <a href="http://makeapullrequest.com" title="dependencies status">
-        <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
-    </a>
-</p>
 
 <h2>Installation</h2>
 

@@ -2,13 +2,12 @@
 title: "Piring"
 date: 2018-02-08T15:40:23+07:00
 
+description: "Simple file transfer command line app"
 projectURL: "https://github.com/indmind/piring"
-categories: ["project"]
+categories: ["Project"]
 tags: ["js", "file-transfer", "code", "programming", "ftp"]
 author: "Indmind"
 ---
-
-Simple file transfer
 
 #### Installation
 

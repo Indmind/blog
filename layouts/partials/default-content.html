@@ -1,5 +1,14 @@
 <div class="content">
     <h3><a href="{{ .URL }}">{{ .Title }}</a></h3>
+
+    {{ with .Params.description }}
+        <span class="description">{{ . }}</span>
+    {{ end }}
+
+    {{ with .Params.projectURL }}
+        <a href="{{ . }}" class="project-url">{{ . }}</a>
+    {{ end }}
+
     <div class="meta">
         <span class="date moment">{{ .PublishDate.Format "2006-01-02" }}</span>
 
@@ -13,10 +22,6 @@
 
         {{ with .Params.author }}
             <span class="author"><a href="/author/{{ . | urlize }}">{{ . }}</a></span>
-        {{ end }}
-
-        {{ with .Params.projectURL }}
-            <br /><a href="{{ . }}">{{ . }}</a></span>
         {{ end }}
     </div>
 

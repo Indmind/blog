@@ -2,13 +2,12 @@
 title: "Pfive"
 date: 2018-02-08T15:09:48+07:00
 
+description: "a simple p5 manager"
 projectURL: "https://github.com/indmind/pfive"
-categories: ["project"]
+categories: ["Project"]
 tags: ["js", "project-manager", "code", "programming", "p5.js"]
 author: "Indmind"
 ---
-
-a simple p5 manager
 
 ![](https://media.giphy.com/media/l3mZa8NdqpJPWiw8w/giphy.gif)
 

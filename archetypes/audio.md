@@ -3,7 +3,7 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 
 featuredImage: ""
-categories: []
+categories: ["Music"]
 tags: []
 author: ""
 

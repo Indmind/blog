@@ -3,7 +3,7 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 
 featuredImage: ""
-categories: []
+categories: ["Link"]
 tags: []
 
 # Set your external url
