@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Indmind Blog</title>
+    <link>https://indmind.github.io/tags/google/</link>
+    <description>Recent content in Google on Indmind Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 Jan 2018 11:44:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://indmind.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experiencing Google Code-in 2017</title>
+      <link>https://indmind.github.io/article/experiencing-google-code-in-2017/</link>
+      <pubDate>Thu, 18 Jan 2018 11:44:25 +0000</pubDate>
+      
+      <guid>https://indmind.github.io/article/experiencing-google-code-in-2017/</guid>
+      <description>Hello someone who read this! I don&amp;rsquo;t know how and where to start, so basically, I want to share you my experience on Google Code-in 2017
+What is Google Code-in? Google Code-in 2017 is a contest to introduce pre-university students (ages 13–17) to open source software development. ok that&amp;rsquo;s it
+Where did I heard about Google Code-in? I heard about Google Code-2017 from a facebook page and I thought it would be great if I joined the contest to learn how to work with others in open source projects, because I was very bad at socializing and working together, this will be a very good opportunity for me, so this year I targeted nothing and I will take just easy tasks for introductions besides my bad skills and my very bad English, maybe next year I will be more serious, and enrolled myself in the contest.</description>
+    </item>
+    
+  </channel>
+</rss>

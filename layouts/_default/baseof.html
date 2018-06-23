@@ -9,8 +9,9 @@
         <meta name="keywords" content="{{ .Site.Params.keywords }}">
         {{ .Hugo.Generator }}
 
-        <link rel="icon" type="image/png" href="{{ "/favicon-32x32.png" | relURL }}" sizes="32x32">
-        <link rel="icon" type="image/png" href="{{ "/favicon-16x16.png" | relURL }}" sizes="16x16">
+        {{ if (ne .Site.Params.customImage "") }}
+            <link rel="shortcut icon" href="{{ .Site.Params.customImage }}" type="image/x-icon" />
+        {{ end }}
 
         <link rel="stylesheet" href="{{ "dist/theme.css" | relURL }}">
 
@@ -31,7 +32,6 @@
         {{ partial "topnav" . }}
 
         {{ partial "header" . }}
-
         <div class="main container">
             {{ block "main" . }}{{ end }}
         </div>

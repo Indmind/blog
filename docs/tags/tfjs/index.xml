@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tfjs on Indmind Blog</title>
+    <link>https://indmind.github.io/tags/tfjs/</link>
+    <description>Recent content in Tfjs on Indmind Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Jun 2018 17:56:24 +0700</lastBuildDate>
+    
+	<atom:link href="https://indmind.github.io/tags/tfjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Polynomial Regression</title>
+      <link>https://indmind.github.io/project/polynomial-regression/</link>
+      <pubDate>Sat, 23 Jun 2018 17:56:24 +0700</pubDate>
+      
+      <guid>https://indmind.github.io/project/polynomial-regression/</guid>
+      <description>Hello guys, today (not actually today) I try to make a simple experimental project; Polynomial Regression, you can check it here! If you don&amp;rsquo;t know what is Polynomial Regression, here&amp;rsquo;s a link to wikipedia page https://en.wikipedia.org/wiki/Polynomial_regression
+ </description>
+    </item>
+    
+  </channel>
+</rss>

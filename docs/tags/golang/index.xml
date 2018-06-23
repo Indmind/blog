@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Indmind Blog</title>
+    <link>https://indmind.github.io/tags/golang/</link>
+    <description>Recent content in Golang on Indmind Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Feb 2018 15:38:38 +0700</lastBuildDate>
+    
+	<atom:link href="https://indmind.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angka ke Terbilang</title>
+      <link>https://indmind.github.io/project/akt/</link>
+      <pubDate>Thu, 08 Feb 2018 15:38:38 +0700</pubDate>
+      
+      <guid>https://indmind.github.io/project/akt/</guid>
+      <description> Golang library to convert number to Indonesian word (spelled out)
+Installation $ go get github.com/indmind/akt
+Usage package main import ( &amp;quot;fmt&amp;quot; &amp;quot;github.com/indmind/akt&amp;quot; ) func main() { terbilang := akt.Convert(&amp;quot;13500&amp;quot;) fmt.Println(terbilang) // tiga belas ribu lima ratus }  </description>
+    </item>
+    
+    <item>
+      <title>Learning Golang</title>
+      <link>https://indmind.github.io/article/learning-golang/</link>
+      <pubDate>Mon, 29 Jan 2018 13:04:58 +0000</pubDate>
+      
+      <guid>https://indmind.github.io/article/learning-golang/</guid>
+      <description>Hello there! I don&amp;rsquo;t really know about blogging and what to put here, so I think I will fill this blog with some random thing. For now I will share my experince about learning Golang
+Why do I learn Golang? Actually, I myself don&amp;rsquo;t know why I learn this beautiful language. It starts when I think that I need to learn a language that I will use it &amp;ldquo;forever&amp;rdquo;. I&amp;rsquo;ve learned Java, C++, C#, python, ruby, PHP, javascript, and even swift that I myself don&amp;rsquo;t have any iDevice.</description>
+    </item>
+    
+  </channel>
+</rss>

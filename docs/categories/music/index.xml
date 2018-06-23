@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Indmind Blog</title>
+    <link>https://indmind.github.io/categories/music/</link>
+    <description>Recent content in Music on Indmind Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Jun 2018 18:57:44 +0700</lastBuildDate>
+    
+	<atom:link href="https://indmind.github.io/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Favorite Playlist</title>
+      <link>https://indmind.github.io/audio/my-favorite-playlist/</link>
+      <pubDate>Sat, 23 Jun 2018 18:57:44 +0700</pubDate>
+      
+      <guid>https://indmind.github.io/audio/my-favorite-playlist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>So Far Away Martin Garrix</title>
+      <link>https://indmind.github.io/audio/so-far-away-martin-garrix/</link>
+      <pubDate>Fri, 09 Mar 2018 09:25:05 +0700</pubDate>
+      
+      <guid>https://indmind.github.io/audio/so-far-away-martin-garrix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
