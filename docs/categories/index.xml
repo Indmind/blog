@@ -5,7 +5,7 @@
     <link>https://indmind.github.io/categories/</link>
     <description>Recent content in Categories on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 08 Feb 2018 15:08:27 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 07:43:57 +0700</lastBuildDate>
     
 	<atom:link href="https://indmind.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,18 @@
     <item>
       <title>Bahasa Indonesia</title>
       <link>https://indmind.github.io/categories/bahasa-indonesia/</link>
-      <pubDate>Thu, 08 Feb 2018 15:08:27 +0700</pubDate>
+      <pubDate>Tue, 07 Jan 2020 07:43:57 +0700</pubDate>
       
       <guid>https://indmind.github.io/categories/bahasa-indonesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barang Beks</title>
+      <link>https://indmind.github.io/categories/barang-beks/</link>
+      <pubDate>Tue, 07 Jan 2020 07:43:57 +0700</pubDate>
+      
+      <guid>https://indmind.github.io/categories/barang-beks/</guid>
       <description></description>
     </item>
     
