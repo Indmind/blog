@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Js on Indmind Blog</title>
-    <link>https://indmind.github.io/tags/js/</link>
+    <link>https://www.indmind.ga/tags/js/</link>
     <description>Recent content in Js on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 08 Feb 2018 15:40:23 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/tags/js/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Piring</title>
-      <link>https://indmind.github.io/project/piring/</link>
+      <link>https://www.indmind.ga/project/piring/</link>
       <pubDate>Thu, 08 Feb 2018 15:40:23 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/piring/</guid>
+      <guid>https://www.indmind.ga/project/piring/</guid>
       <description>Installation $ npm i -g piring
 Usage make sure sender and receiver are in the same network
 sender:
@@ -25,10 +25,10 @@ receiver: output from sender command</description>
     
     <item>
       <title>Pfive</title>
-      <link>https://indmind.github.io/project/pfive/</link>
+      <link>https://www.indmind.ga/project/pfive/</link>
       <pubDate>Thu, 08 Feb 2018 15:09:48 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/pfive/</guid>
+      <guid>https://www.indmind.ga/project/pfive/</guid>
       <description>installation  Install NodeJs install globaly using npm  $ npm install -g pfive
 usage  first, generate pfive.json  $ pfive init
  select library you want to add download all library with install command, add -o option for offline installation  $ pfive install
@@ -38,10 +38,10 @@ usage  first, generate pfive.json  $ pfive init
     
     <item>
       <title>Jawaskrip</title>
-      <link>https://indmind.github.io/project/jawaskrip/</link>
+      <link>https://www.indmind.ga/project/jawaskrip/</link>
       <pubDate>Thu, 08 Feb 2018 15:08:27 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/jawaskrip/</guid>
+      <guid>https://www.indmind.ga/project/jawaskrip/</guid>
       <description>Instalasi  Install NodeJs buka terminal / cmd install secara global menggunakan NPM  npm install -g jawaskrip
  atau sebagai library  npm install --save jawaskrip
 Tutorial  CLI ``` ~$ jawaskrip run atau ~$ jw run atau ~$ jw   bantuan: ~$ jw -h

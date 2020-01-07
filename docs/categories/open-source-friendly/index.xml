@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source Friendly on Indmind Blog</title>
-    <link>https://indmind.github.io/categories/open-source-friendly/</link>
+    <link>https://www.indmind.ga/categories/open-source-friendly/</link>
     <description>Recent content in Open Source Friendly on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 23 Feb 2018 21:54:08 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/categories/open-source-friendly/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/categories/open-source-friendly/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rin</title>
-      <link>https://indmind.github.io/project/rin/</link>
+      <link>https://www.indmind.ga/project/rin/</link>
       <pubDate>Fri, 23 Feb 2018 21:54:08 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/rin/</guid>
+      <guid>https://www.indmind.ga/project/rin/</guid>
       <description>Rin a simple multi-burpose bot  Installation Install all dependencies using npm
 $ npm install
 Build $ npm run build

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ftp on Indmind Blog</title>
-    <link>https://indmind.github.io/tags/ftp/</link>
+    <link>https://www.indmind.ga/tags/ftp/</link>
     <description>Recent content in Ftp on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 08 Feb 2018 15:40:23 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/tags/ftp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/tags/ftp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Piring</title>
-      <link>https://indmind.github.io/project/piring/</link>
+      <link>https://www.indmind.ga/project/piring/</link>
       <pubDate>Thu, 08 Feb 2018 15:40:23 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/piring/</guid>
+      <guid>https://www.indmind.ga/project/piring/</guid>
       <description>Installation $ npm i -g piring
 Usage make sure sender and receiver are in the same network
 sender:

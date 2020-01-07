@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Indmind Blog</title>
-    <link>https://indmind.github.io/project/</link>
+    <link>https://www.indmind.ga/project/</link>
     <description>Recent content in Projects on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 23 Jun 2018 17:56:24 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Polynomial Regression</title>
-      <link>https://indmind.github.io/project/polynomial-regression/</link>
+      <link>https://www.indmind.ga/project/polynomial-regression/</link>
       <pubDate>Sat, 23 Jun 2018 17:56:24 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/polynomial-regression/</guid>
+      <guid>https://www.indmind.ga/project/polynomial-regression/</guid>
       <description>Hello guys, today (not actually today) I try to make a simple experimental project; Polynomial Regression, you can check it here! If you don&amp;rsquo;t know what is Polynomial Regression, here&amp;rsquo;s a link to wikipedia page https://en.wikipedia.org/wiki/Polynomial_regression
  </description>
     </item>
     
     <item>
       <title>Rata</title>
-      <link>https://indmind.github.io/project/rata/</link>
+      <link>https://www.indmind.ga/project/rata/</link>
       <pubDate>Fri, 09 Mar 2018 09:35:05 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/rata/</guid>
+      <guid>https://www.indmind.ga/project/rata/</guid>
       <description>Installation $ npm install rata
 Usage const rata = require(&#39;rata&#39;) const data = [ [&amp;quot;eat&amp;quot;, &amp;quot;eat some apples&amp;quot;], [&amp;quot;play&amp;quot;, &amp;quot;play some music&amp;quot;], [&amp;quot;cry&amp;quot;, &amp;quot;crying about your life&amp;quot;], [&amp;quot;makemehappy&amp;quot;, &amp;quot;make happy!&amp;quot;] ] console.log(rata(data))  eat eat some apples play play some music cry crying about your life makemehappy make happy!  const rata = require(&#39;rata&#39;) const data = [ [&amp;quot;eat&amp;quot;, &amp;quot;eat some apples&amp;quot;], [&amp;quot;play&amp;quot;, &amp;quot;play some music&amp;quot;], [&amp;quot;cry&amp;quot;, &amp;quot;crying about your life&amp;quot;], [&amp;quot;makemehappy&amp;quot;, &amp;quot;make happy!</description>
     </item>
     
     <item>
       <title>Rin</title>
-      <link>https://indmind.github.io/project/rin/</link>
+      <link>https://www.indmind.ga/project/rin/</link>
       <pubDate>Fri, 23 Feb 2018 21:54:08 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/rin/</guid>
+      <guid>https://www.indmind.ga/project/rin/</guid>
       <description>Rin a simple multi-burpose bot  Installation Install all dependencies using npm
 $ npm install
 Build $ npm run build
@@ -50,10 +50,10 @@ build and start main.js from build</description>
     
     <item>
       <title>Piring</title>
-      <link>https://indmind.github.io/project/piring/</link>
+      <link>https://www.indmind.ga/project/piring/</link>
       <pubDate>Thu, 08 Feb 2018 15:40:23 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/piring/</guid>
+      <guid>https://www.indmind.ga/project/piring/</guid>
       <description>Installation $ npm i -g piring
 Usage make sure sender and receiver are in the same network
 sender:
@@ -63,10 +63,10 @@ receiver: output from sender command</description>
     
     <item>
       <title>Angka ke Terbilang</title>
-      <link>https://indmind.github.io/project/akt/</link>
+      <link>https://www.indmind.ga/project/akt/</link>
       <pubDate>Thu, 08 Feb 2018 15:38:38 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/akt/</guid>
+      <guid>https://www.indmind.ga/project/akt/</guid>
       <description> Golang library to convert number to Indonesian word (spelled out)
 Installation $ go get github.com/indmind/akt
 Usage package main import ( &amp;quot;fmt&amp;quot; &amp;quot;github.com/indmind/akt&amp;quot; ) func main() { terbilang := akt.Convert(&amp;quot;13500&amp;quot;) fmt.Println(terbilang) // tiga belas ribu lima ratus }  </description>
@@ -74,10 +74,10 @@ Usage package main import ( &amp;quot;fmt&amp;quot; &amp;quot;github.com/indmind
     
     <item>
       <title>Pfive</title>
-      <link>https://indmind.github.io/project/pfive/</link>
+      <link>https://www.indmind.ga/project/pfive/</link>
       <pubDate>Thu, 08 Feb 2018 15:09:48 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/pfive/</guid>
+      <guid>https://www.indmind.ga/project/pfive/</guid>
       <description>installation  Install NodeJs install globaly using npm  $ npm install -g pfive
 usage  first, generate pfive.json  $ pfive init
  select library you want to add download all library with install command, add -o option for offline installation  $ pfive install
@@ -87,10 +87,10 @@ usage  first, generate pfive.json  $ pfive init
     
     <item>
       <title>Jawaskrip</title>
-      <link>https://indmind.github.io/project/jawaskrip/</link>
+      <link>https://www.indmind.ga/project/jawaskrip/</link>
       <pubDate>Thu, 08 Feb 2018 15:08:27 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/jawaskrip/</guid>
+      <guid>https://www.indmind.ga/project/jawaskrip/</guid>
       <description>Instalasi  Install NodeJs buka terminal / cmd install secara global menggunakan NPM  npm install -g jawaskrip
  atau sebagai library  npm install --save jawaskrip
 Tutorial  CLI ``` ~$ jawaskrip run atau ~$ jw run atau ~$ jw   bantuan: ~$ jw -h

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Indmind Blog</title>
-    <link>https://indmind.github.io/tags/programming/</link>
+    <link>https://www.indmind.ga/tags/programming/</link>
     <description>Recent content in Programming on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 08 Feb 2018 15:40:23 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Piring</title>
-      <link>https://indmind.github.io/project/piring/</link>
+      <link>https://www.indmind.ga/project/piring/</link>
       <pubDate>Thu, 08 Feb 2018 15:40:23 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/piring/</guid>
+      <guid>https://www.indmind.ga/project/piring/</guid>
       <description>Installation $ npm i -g piring
 Usage make sure sender and receiver are in the same network
 sender:
@@ -25,10 +25,10 @@ receiver: output from sender command</description>
     
     <item>
       <title>Pfive</title>
-      <link>https://indmind.github.io/project/pfive/</link>
+      <link>https://www.indmind.ga/project/pfive/</link>
       <pubDate>Thu, 08 Feb 2018 15:09:48 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/pfive/</guid>
+      <guid>https://www.indmind.ga/project/pfive/</guid>
       <description>installation  Install NodeJs install globaly using npm  $ npm install -g pfive
 usage  first, generate pfive.json  $ pfive init
  select library you want to add download all library with install command, add -o option for offline installation  $ pfive install
@@ -38,10 +38,10 @@ usage  first, generate pfive.json  $ pfive init
     
     <item>
       <title>Jawaskrip</title>
-      <link>https://indmind.github.io/project/jawaskrip/</link>
+      <link>https://www.indmind.ga/project/jawaskrip/</link>
       <pubDate>Thu, 08 Feb 2018 15:08:27 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/jawaskrip/</guid>
+      <guid>https://www.indmind.ga/project/jawaskrip/</guid>
       <description>Instalasi  Install NodeJs buka terminal / cmd install secara global menggunakan NPM  npm install -g jawaskrip
  atau sebagai library  npm install --save jawaskrip
 Tutorial  CLI ``` ~$ jawaskrip run atau ~$ jw run atau ~$ jw   bantuan: ~$ jw -h
@@ -50,10 +50,10 @@ Tutorial  CLI ``` ~$ jawaskrip run atau ~$ jw run atau ~$ jw   bantuan: ~$ jw -h
     
     <item>
       <title>Learning Golang</title>
-      <link>https://indmind.github.io/article/learning-golang/</link>
+      <link>https://www.indmind.ga/article/learning-golang/</link>
       <pubDate>Mon, 29 Jan 2018 13:04:58 +0000</pubDate>
       
-      <guid>https://indmind.github.io/article/learning-golang/</guid>
+      <guid>https://www.indmind.ga/article/learning-golang/</guid>
       <description>Hello there! I don&amp;rsquo;t really know about blogging and what to put here, so I think I will fill this blog with some random thing. For now I will share my experince about learning Golang
 Why do I learn Golang? Actually, I myself don&amp;rsquo;t know why I learn this beautiful language. It starts when I think that I need to learn a language that I will use it &amp;ldquo;forever&amp;rdquo;. I&amp;rsquo;ve learned Java, C++, C#, python, ruby, PHP, javascript, and even swift that I myself don&amp;rsquo;t have any iDevice.</description>
     </item>

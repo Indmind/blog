@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transpiler on Indmind Blog</title>
-    <link>https://indmind.github.io/tags/transpiler/</link>
+    <link>https://www.indmind.ga/tags/transpiler/</link>
     <description>Recent content in Transpiler on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 08 Feb 2018 15:08:27 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/tags/transpiler/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/tags/transpiler/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jawaskrip</title>
-      <link>https://indmind.github.io/project/jawaskrip/</link>
+      <link>https://www.indmind.ga/project/jawaskrip/</link>
       <pubDate>Thu, 08 Feb 2018 15:08:27 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/jawaskrip/</guid>
+      <guid>https://www.indmind.ga/project/jawaskrip/</guid>
       <description>Instalasi  Install NodeJs buka terminal / cmd install secara global menggunakan NPM  npm install -g jawaskrip
  atau sebagai library  npm install --save jawaskrip
 Tutorial  CLI ``` ~$ jawaskrip run atau ~$ jw run atau ~$ jw   bantuan: ~$ jw -h

@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Indmind Blog</title>
-    <link>https://indmind.github.io/author/</link>
+    <link>https://www.indmind.ga/author/</link>
     <description>Recent content in Author on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://indmind.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bill Gates</title>
-      <link>https://indmind.github.io/author/bill-gates/</link>
+      <link>https://www.indmind.ga/author/bill-gates/</link>
       <pubDate>Fri, 09 Mar 2018 09:15:01 +0700</pubDate>
       
-      <guid>https://indmind.github.io/author/bill-gates/</guid>
+      <guid>https://www.indmind.ga/author/bill-gates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indmind</title>
-      <link>https://indmind.github.io/author/indmind/</link>
+      <link>https://www.indmind.ga/author/indmind/</link>
       <pubDate>Tue, 07 Jan 2020 07:43:57 +0700</pubDate>
       
-      <guid>https://indmind.github.io/author/indmind/</guid>
+      <guid>https://www.indmind.ga/author/indmind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martin Garrix   David Guetta</title>
-      <link>https://indmind.github.io/author/martin-garrix---david-guetta/</link>
+      <link>https://www.indmind.ga/author/martin-garrix---david-guetta/</link>
       <pubDate>Fri, 09 Mar 2018 09:25:05 +0700</pubDate>
       
-      <guid>https://indmind.github.io/author/martin-garrix---david-guetta/</guid>
+      <guid>https://www.indmind.ga/author/martin-garrix---david-guetta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mitch Ratcliffe</title>
-      <link>https://indmind.github.io/author/mitch-ratcliffe/</link>
+      <link>https://www.indmind.ga/author/mitch-ratcliffe/</link>
       <pubDate>Fri, 09 Mar 2018 09:47:21 +0700</pubDate>
       
-      <guid>https://indmind.github.io/author/mitch-ratcliffe/</guid>
+      <guid>https://www.indmind.ga/author/mitch-ratcliffe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotify</title>
-      <link>https://indmind.github.io/author/spotify/</link>
+      <link>https://www.indmind.ga/author/spotify/</link>
       <pubDate>Sat, 23 Jun 2018 18:57:44 +0700</pubDate>
       
-      <guid>https://indmind.github.io/author/spotify/</guid>
+      <guid>https://www.indmind.ga/author/spotify/</guid>
       <description></description>
     </item>
     

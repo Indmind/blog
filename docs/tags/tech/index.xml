@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Indmind Blog</title>
-    <link>https://indmind.github.io/tags/tech/</link>
+    <link>https://www.indmind.ga/tags/tech/</link>
     <description>Recent content in Tech on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 30 Jan 2018 12:19:40 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrating to Hugo</title>
-      <link>https://indmind.github.io/article/migrating-to-hugo/</link>
+      <link>https://www.indmind.ga/article/migrating-to-hugo/</link>
       <pubDate>Tue, 30 Jan 2018 12:19:40 +0700</pubDate>
       
-      <guid>https://indmind.github.io/article/migrating-to-hugo/</guid>
+      <guid>https://www.indmind.ga/article/migrating-to-hugo/</guid>
       <description>Hello world! now my personal blog is using Hugo!
 Why I Migrate to Hugo? well, why I migrate to Hugo is because it easier to use and the number of awesome themes that already exist, it makes me not too focused to design this web.
 My First Impression on Hugo Wow! that&amp;rsquo;s it. this Static Site generator is very easy! I just need to install a theme, making a post and done!</description>
@@ -23,20 +23,20 @@ My First Impression on Hugo Wow! that&amp;rsquo;s it. this Static Site generator
     
     <item>
       <title>Learning Golang</title>
-      <link>https://indmind.github.io/article/learning-golang/</link>
+      <link>https://www.indmind.ga/article/learning-golang/</link>
       <pubDate>Mon, 29 Jan 2018 13:04:58 +0000</pubDate>
       
-      <guid>https://indmind.github.io/article/learning-golang/</guid>
+      <guid>https://www.indmind.ga/article/learning-golang/</guid>
       <description>Hello there! I don&amp;rsquo;t really know about blogging and what to put here, so I think I will fill this blog with some random thing. For now I will share my experince about learning Golang
 Why do I learn Golang? Actually, I myself don&amp;rsquo;t know why I learn this beautiful language. It starts when I think that I need to learn a language that I will use it &amp;ldquo;forever&amp;rdquo;. I&amp;rsquo;ve learned Java, C++, C#, python, ruby, PHP, javascript, and even swift that I myself don&amp;rsquo;t have any iDevice.</description>
     </item>
     
     <item>
       <title>Experiencing Google Code-in 2017</title>
-      <link>https://indmind.github.io/article/experiencing-google-code-in-2017/</link>
+      <link>https://www.indmind.ga/article/experiencing-google-code-in-2017/</link>
       <pubDate>Thu, 18 Jan 2018 11:44:25 +0000</pubDate>
       
-      <guid>https://indmind.github.io/article/experiencing-google-code-in-2017/</guid>
+      <guid>https://www.indmind.ga/article/experiencing-google-code-in-2017/</guid>
       <description>Hello someone who read this! I don&amp;rsquo;t know how and where to start, so basically, I want to share you my experience on Google Code-in 2017
 What is Google Code-in? Google Code-in 2017 is a contest to introduce pre-university students (ages 13–17) to open source software development. ok that&amp;rsquo;s it
 Where did I heard about Google Code-in? I heard about Google Code-2017 from a facebook page and I thought it would be great if I joined the contest to learn how to work with others in open source projects, because I was very bad at socializing and working together, this will be a very good opportunity for me, so this year I targeted nothing and I will take just easy tasks for introductions besides my bad skills and my very bad English, maybe next year I will be more serious, and enrolled myself in the contest.</description>

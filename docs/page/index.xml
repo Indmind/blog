@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Indmind Blog</title>
-    <link>https://indmind.github.io/page/</link>
+    <link>https://www.indmind.ga/page/</link>
     <description>Recent content in Pages on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Nov 2017 13:17:56 +0100</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Github</title>
-      <link>https://indmind.github.io/page/github/</link>
+      <link>https://www.indmind.ga/page/github/</link>
       <pubDate>Wed, 01 Nov 2017 13:17:56 +0100</pubDate>
       
-      <guid>https://indmind.github.io/page/github/</guid>
+      <guid>https://www.indmind.ga/page/github/</guid>
       <description></description>
     </item>
     

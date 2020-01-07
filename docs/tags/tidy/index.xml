@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tidy on Indmind Blog</title>
-    <link>https://indmind.github.io/tags/tidy/</link>
+    <link>https://www.indmind.ga/tags/tidy/</link>
     <description>Recent content in Tidy on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 09 Mar 2018 09:35:05 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/tags/tidy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/tags/tidy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rata</title>
-      <link>https://indmind.github.io/project/rata/</link>
+      <link>https://www.indmind.ga/project/rata/</link>
       <pubDate>Fri, 09 Mar 2018 09:35:05 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/rata/</guid>
+      <guid>https://www.indmind.ga/project/rata/</guid>
       <description>Installation $ npm install rata
 Usage const rata = require(&#39;rata&#39;) const data = [ [&amp;quot;eat&amp;quot;, &amp;quot;eat some apples&amp;quot;], [&amp;quot;play&amp;quot;, &amp;quot;play some music&amp;quot;], [&amp;quot;cry&amp;quot;, &amp;quot;crying about your life&amp;quot;], [&amp;quot;makemehappy&amp;quot;, &amp;quot;make happy!&amp;quot;] ] console.log(rata(data))  eat eat some apples play play some music cry crying about your life makemehappy make happy!  const rata = require(&#39;rata&#39;) const data = [ [&amp;quot;eat&amp;quot;, &amp;quot;eat some apples&amp;quot;], [&amp;quot;play&amp;quot;, &amp;quot;play some music&amp;quot;], [&amp;quot;cry&amp;quot;, &amp;quot;crying about your life&amp;quot;], [&amp;quot;makemehappy&amp;quot;, &amp;quot;make happy!</description>
     </item>

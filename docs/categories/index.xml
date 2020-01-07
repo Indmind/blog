@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Indmind Blog</title>
-    <link>https://indmind.github.io/categories/</link>
+    <link>https://www.indmind.ga/categories/</link>
     <description>Recent content in Categories on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 07 Jan 2020 07:43:57 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bahasa Indonesia</title>
-      <link>https://indmind.github.io/categories/bahasa-indonesia/</link>
+      <link>https://www.indmind.ga/categories/bahasa-indonesia/</link>
       <pubDate>Tue, 07 Jan 2020 07:43:57 +0700</pubDate>
       
-      <guid>https://indmind.github.io/categories/bahasa-indonesia/</guid>
+      <guid>https://www.indmind.ga/categories/bahasa-indonesia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barang Beks</title>
-      <link>https://indmind.github.io/categories/barang-beks/</link>
+      <link>https://www.indmind.ga/categories/barang-beks/</link>
       <pubDate>Tue, 07 Jan 2020 07:43:57 +0700</pubDate>
       
-      <guid>https://indmind.github.io/categories/barang-beks/</guid>
+      <guid>https://www.indmind.ga/categories/barang-beks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://indmind.github.io/categories/music/</link>
+      <link>https://www.indmind.ga/categories/music/</link>
       <pubDate>Sat, 23 Jun 2018 18:57:44 +0700</pubDate>
       
-      <guid>https://indmind.github.io/categories/music/</guid>
+      <guid>https://www.indmind.ga/categories/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source Friendly</title>
-      <link>https://indmind.github.io/categories/open-source-friendly/</link>
+      <link>https://www.indmind.ga/categories/open-source-friendly/</link>
       <pubDate>Fri, 23 Feb 2018 21:54:08 +0700</pubDate>
       
-      <guid>https://indmind.github.io/categories/open-source-friendly/</guid>
+      <guid>https://www.indmind.ga/categories/open-source-friendly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://indmind.github.io/categories/personal/</link>
+      <link>https://www.indmind.ga/categories/personal/</link>
       <pubDate>Tue, 30 Jan 2018 12:19:40 +0700</pubDate>
       
-      <guid>https://indmind.github.io/categories/personal/</guid>
+      <guid>https://www.indmind.ga/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>https://indmind.github.io/categories/project/</link>
+      <link>https://www.indmind.ga/categories/project/</link>
       <pubDate>Sat, 23 Jun 2018 17:56:24 +0700</pubDate>
       
-      <guid>https://indmind.github.io/categories/project/</guid>
+      <guid>https://www.indmind.ga/categories/project/</guid>
       <description></description>
     </item>
     

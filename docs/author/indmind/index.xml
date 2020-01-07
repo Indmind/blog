@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indmind on Indmind Blog</title>
-    <link>https://indmind.github.io/author/indmind/</link>
+    <link>https://www.indmind.ga/author/indmind/</link>
     <description>Recent content in Indmind on Indmind Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 07 Jan 2020 07:43:57 +0700</lastBuildDate>
     
-	<atom:link href="https://indmind.github.io/author/indmind/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indmind.ga/author/indmind/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Realme 5 Bekas</title>
-      <link>https://indmind.github.io/article/realme-5-bekas/</link>
+      <link>https://www.indmind.ga/article/realme-5-bekas/</link>
       <pubDate>Tue, 07 Jan 2020 07:43:57 +0700</pubDate>
       
-      <guid>https://indmind.github.io/article/realme-5-bekas/</guid>
+      <guid>https://www.indmind.ga/article/realme-5-bekas/</guid>
       <description>Dijual Realme 5 bekas, bagi yang berminat dapat menghubungi saya. Untuk lebih jelasnya tentang HandPhone ini, bisa dilihat review dari HiTekno.com di bawah ini.
 Performa Realme 5 Soal dapur pacu, Snapdragon 665 di Realme 5 memang bukan chipset biasa. Karena itu performa smartphone ini jadi keunggulannya.
 Hasil pengujian tim HiTekno.com, performa Realme 5 memuaskan sebagai smartphone Rp 2 jutaan. Tak akan kalah dari smartphone dengan Snapdragon 660.
@@ -24,30 +24,30 @@ Kami memakai Asus ZenFone Max Pro M2 RAM 4 GB + 64 GB sebagai pembanding untuk p
     
     <item>
       <title>Polynomial Regression</title>
-      <link>https://indmind.github.io/project/polynomial-regression/</link>
+      <link>https://www.indmind.ga/project/polynomial-regression/</link>
       <pubDate>Sat, 23 Jun 2018 17:56:24 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/polynomial-regression/</guid>
+      <guid>https://www.indmind.ga/project/polynomial-regression/</guid>
       <description>Hello guys, today (not actually today) I try to make a simple experimental project; Polynomial Regression, you can check it here! If you don&amp;rsquo;t know what is Polynomial Regression, here&amp;rsquo;s a link to wikipedia page https://en.wikipedia.org/wiki/Polynomial_regression
  </description>
     </item>
     
     <item>
       <title>Rata</title>
-      <link>https://indmind.github.io/project/rata/</link>
+      <link>https://www.indmind.ga/project/rata/</link>
       <pubDate>Fri, 09 Mar 2018 09:35:05 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/rata/</guid>
+      <guid>https://www.indmind.ga/project/rata/</guid>
       <description>Installation $ npm install rata
 Usage const rata = require(&#39;rata&#39;) const data = [ [&amp;quot;eat&amp;quot;, &amp;quot;eat some apples&amp;quot;], [&amp;quot;play&amp;quot;, &amp;quot;play some music&amp;quot;], [&amp;quot;cry&amp;quot;, &amp;quot;crying about your life&amp;quot;], [&amp;quot;makemehappy&amp;quot;, &amp;quot;make happy!&amp;quot;] ] console.log(rata(data))  eat eat some apples play play some music cry crying about your life makemehappy make happy!  const rata = require(&#39;rata&#39;) const data = [ [&amp;quot;eat&amp;quot;, &amp;quot;eat some apples&amp;quot;], [&amp;quot;play&amp;quot;, &amp;quot;play some music&amp;quot;], [&amp;quot;cry&amp;quot;, &amp;quot;crying about your life&amp;quot;], [&amp;quot;makemehappy&amp;quot;, &amp;quot;make happy!</description>
     </item>
     
     <item>
       <title>Rin</title>
-      <link>https://indmind.github.io/project/rin/</link>
+      <link>https://www.indmind.ga/project/rin/</link>
       <pubDate>Fri, 23 Feb 2018 21:54:08 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/rin/</guid>
+      <guid>https://www.indmind.ga/project/rin/</guid>
       <description>Rin a simple multi-burpose bot  Installation Install all dependencies using npm
 $ npm install
 Build $ npm run build
@@ -62,10 +62,10 @@ build and start main.js from build</description>
     
     <item>
       <title>Piring</title>
-      <link>https://indmind.github.io/project/piring/</link>
+      <link>https://www.indmind.ga/project/piring/</link>
       <pubDate>Thu, 08 Feb 2018 15:40:23 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/piring/</guid>
+      <guid>https://www.indmind.ga/project/piring/</guid>
       <description>Installation $ npm i -g piring
 Usage make sure sender and receiver are in the same network
 sender:
@@ -75,10 +75,10 @@ receiver: output from sender command</description>
     
     <item>
       <title>Angka ke Terbilang</title>
-      <link>https://indmind.github.io/project/akt/</link>
+      <link>https://www.indmind.ga/project/akt/</link>
       <pubDate>Thu, 08 Feb 2018 15:38:38 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/akt/</guid>
+      <guid>https://www.indmind.ga/project/akt/</guid>
       <description> Golang library to convert number to Indonesian word (spelled out)
 Installation $ go get github.com/indmind/akt
 Usage package main import ( &amp;quot;fmt&amp;quot; &amp;quot;github.com/indmind/akt&amp;quot; ) func main() { terbilang := akt.Convert(&amp;quot;13500&amp;quot;) fmt.Println(terbilang) // tiga belas ribu lima ratus }  </description>
@@ -86,10 +86,10 @@ Usage package main import ( &amp;quot;fmt&amp;quot; &amp;quot;github.com/indmind
     
     <item>
       <title>Pfive</title>
-      <link>https://indmind.github.io/project/pfive/</link>
+      <link>https://www.indmind.ga/project/pfive/</link>
       <pubDate>Thu, 08 Feb 2018 15:09:48 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/pfive/</guid>
+      <guid>https://www.indmind.ga/project/pfive/</guid>
       <description>installation  Install NodeJs install globaly using npm  $ npm install -g pfive
 usage  first, generate pfive.json  $ pfive init
  select library you want to add download all library with install command, add -o option for offline installation  $ pfive install
@@ -99,10 +99,10 @@ usage  first, generate pfive.json  $ pfive init
     
     <item>
       <title>Jawaskrip</title>
-      <link>https://indmind.github.io/project/jawaskrip/</link>
+      <link>https://www.indmind.ga/project/jawaskrip/</link>
       <pubDate>Thu, 08 Feb 2018 15:08:27 +0700</pubDate>
       
-      <guid>https://indmind.github.io/project/jawaskrip/</guid>
+      <guid>https://www.indmind.ga/project/jawaskrip/</guid>
       <description>Instalasi  Install NodeJs buka terminal / cmd install secara global menggunakan NPM  npm install -g jawaskrip
  atau sebagai library  npm install --save jawaskrip
 Tutorial  CLI ``` ~$ jawaskrip run atau ~$ jw run atau ~$ jw   bantuan: ~$ jw -h
@@ -111,10 +111,10 @@ Tutorial  CLI ``` ~$ jawaskrip run atau ~$ jw run atau ~$ jw   bantuan: ~$ jw -h
     
     <item>
       <title>Migrating to Hugo</title>
-      <link>https://indmind.github.io/article/migrating-to-hugo/</link>
+      <link>https://www.indmind.ga/article/migrating-to-hugo/</link>
       <pubDate>Tue, 30 Jan 2018 12:19:40 +0700</pubDate>
       
-      <guid>https://indmind.github.io/article/migrating-to-hugo/</guid>
+      <guid>https://www.indmind.ga/article/migrating-to-hugo/</guid>
       <description>Hello world! now my personal blog is using Hugo!
 Why I Migrate to Hugo? well, why I migrate to Hugo is because it easier to use and the number of awesome themes that already exist, it makes me not too focused to design this web.
 My First Impression on Hugo Wow! that&amp;rsquo;s it. this Static Site generator is very easy! I just need to install a theme, making a post and done!</description>
@@ -122,20 +122,20 @@ My First Impression on Hugo Wow! that&amp;rsquo;s it. this Static Site generator
     
     <item>
       <title>Learning Golang</title>
-      <link>https://indmind.github.io/article/learning-golang/</link>
+      <link>https://www.indmind.ga/article/learning-golang/</link>
       <pubDate>Mon, 29 Jan 2018 13:04:58 +0000</pubDate>
       
-      <guid>https://indmind.github.io/article/learning-golang/</guid>
+      <guid>https://www.indmind.ga/article/learning-golang/</guid>
       <description>Hello there! I don&amp;rsquo;t really know about blogging and what to put here, so I think I will fill this blog with some random thing. For now I will share my experince about learning Golang
 Why do I learn Golang? Actually, I myself don&amp;rsquo;t know why I learn this beautiful language. It starts when I think that I need to learn a language that I will use it &amp;ldquo;forever&amp;rdquo;. I&amp;rsquo;ve learned Java, C++, C#, python, ruby, PHP, javascript, and even swift that I myself don&amp;rsquo;t have any iDevice.</description>
     </item>
     
     <item>
       <title>Experiencing Google Code-in 2017</title>
-      <link>https://indmind.github.io/article/experiencing-google-code-in-2017/</link>
+      <link>https://www.indmind.ga/article/experiencing-google-code-in-2017/</link>
       <pubDate>Thu, 18 Jan 2018 11:44:25 +0000</pubDate>
       
-      <guid>https://indmind.github.io/article/experiencing-google-code-in-2017/</guid>
+      <guid>https://www.indmind.ga/article/experiencing-google-code-in-2017/</guid>
       <description>Hello someone who read this! I don&amp;rsquo;t know how and where to start, so basically, I want to share you my experience on Google Code-in 2017
 What is Google Code-in? Google Code-in 2017 is a contest to introduce pre-university students (ages 13–17) to open source software development. ok that&amp;rsquo;s it
 Where did I heard about Google Code-in? I heard about Google Code-2017 from a facebook page and I thought it would be great if I joined the contest to learn how to work with others in open source projects, because I was very bad at socializing and working together, this will be a very good opportunity for me, so this year I targeted nothing and I will take just easy tasks for introductions besides my bad skills and my very bad English, maybe next year I will be more serious, and enrolled myself in the contest.</description>
