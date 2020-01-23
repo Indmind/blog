@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary on Indmind Blog</title>
+    <link>https://www.indmind.ga/categories/diary/</link>
+    <description>Recent content in Diary on Indmind Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Jan 2020 09:22:26 +0700</lastBuildDate>
+    
+	<atom:link href="https://www.indmind.ga/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jurnal PKL Minggu 2</title>
+      <link>https://www.indmind.ga/article/jurnal-pkl-minggu-2/</link>
+      <pubDate>Sun, 19 Jan 2020 09:22:26 +0700</pubDate>
+      
+      <guid>https://www.indmind.ga/article/jurnal-pkl-minggu-2/</guid>
+      <description>Cerita minggu ke 2 pkl di Ezy Industries&amp;hellip; Jadi, pada minggu ke 2 ini, saya sedikit senggang karena belum mendapat tugas dari pembimbing di industri, melainkan diberi tugas untuk mempelajari NativeBase dan Redux sembari menunggu pembagian tugas.
+Kemarin, tiba-tiba saya di-chat oleh mas Rama yang berupa link untuk bergabung ke grup telegram Dev. Layangmu, ternyata saya dan Alif diberi tugas untuk membuat sebuah aplikasi bernama Apps Layangmu. Apps Layangmu adalah sebuah aplikasi management persuratan.</description>
+    </item>
+    
+    <item>
+      <title>Jurnal PKL Minggu 1</title>
+      <link>https://www.indmind.ga/article/jurnal-pkl-minggu-1/</link>
+      <pubDate>Sat, 11 Jan 2020 09:22:23 +0700</pubDate>
+      
+      <guid>https://www.indmind.ga/article/jurnal-pkl-minggu-1/</guid>
+      <description> Pada minggu pertama PKL di Ezy Industries, kita diberikan tugas untuk membuat aplikasi Login menggunakan react native. Kemudian, setelah aplikasi tersebut dapat berfungsi dengan benar, kita diberikan tugas untuk mengubah desain aplikasi kita dengan desain yang telah ditentukan.
+Hasil Tugas Desain  Kemudian setelah menilaikan tugas tersebut, saya diberi tugas untuk mempelajari NativeBase dan Redux
+   
+Sampai jupa minggu depan :0 </description>
+    </item>
+    
+  </channel>
+</rss>

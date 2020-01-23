@@ -20,11 +20,29 @@
     </item>
     
     <item>
-      <title>Barang Beks</title>
-      <link>https://www.indmind.ga/categories/barang-beks/</link>
+      <title>Barang Bekas</title>
+      <link>https://www.indmind.ga/categories/barang-bekas/</link>
       <pubDate>Tue, 07 Jan 2020 07:43:57 +0700</pubDate>
       
-      <guid>https://www.indmind.ga/categories/barang-beks/</guid>
+      <guid>https://www.indmind.ga/categories/barang-bekas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diary</title>
+      <link>https://www.indmind.ga/categories/diary/</link>
+      <pubDate>Sun, 19 Jan 2020 09:22:26 +0700</pubDate>
+      
+      <guid>https://www.indmind.ga/categories/diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>https://www.indmind.ga/categories/journal/</link>
+      <pubDate>Sun, 19 Jan 2020 09:22:26 +0700</pubDate>
+      
+      <guid>https://www.indmind.ga/categories/journal/</guid>
       <description></description>
     </item>
     
@@ -52,6 +70,15 @@
       <pubDate>Tue, 30 Jan 2018 12:19:40 +0700</pubDate>
       
       <guid>https://www.indmind.ga/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://www.indmind.ga/categories/post/</link>
+      <pubDate>Sun, 19 Jan 2020 09:22:26 +0700</pubDate>
+      
+      <guid>https://www.indmind.ga/categories/post/</guid>
       <description></description>
     </item>
     

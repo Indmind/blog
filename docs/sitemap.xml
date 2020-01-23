@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.indmind.ga/article/jurnal-pkl-minggu-2/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.indmind.ga/article/jurnal-pkl-minggu-1/</loc>
+    <lastmod>2020-01-11T09:22:23+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.indmind.ga/article/realme-5-bekas/</loc>
     <lastmod>2020-01-07T07:43:57+07:00</lastmod>
   </url>
@@ -90,7 +100,7 @@
   
   <url>
     <loc>https://www.indmind.ga/article/</loc>
-    <lastmod>2020-01-07T07:43:57+07:00</lastmod>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,7 +122,7 @@
   </url>
   
   <url>
-    <loc>https://www.indmind.ga/categories/barang-beks/</loc>
+    <loc>https://www.indmind.ga/categories/barang-bekas/</loc>
     <lastmod>2020-01-07T07:43:57+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -156,6 +166,12 @@
   <url>
     <loc>https://www.indmind.ga/tags/computers/</loc>
     <lastmod>2018-03-09T09:47:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indmind.ga/categories/diary/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -227,13 +243,13 @@
   
   <url>
     <loc>https://www.indmind.ga/author/indmind/</loc>
-    <lastmod>2020-01-07T07:43:57+07:00</lastmod>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indmind.ga/</loc>
-    <lastmod>2020-01-07T07:43:57+07:00</lastmod>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -244,8 +260,26 @@
   </url>
   
   <url>
+    <loc>https://www.indmind.ga/tags/intern/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indmind.ga/tags/internship/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.indmind.ga/tags/javascript/</loc>
     <lastmod>2018-03-09T09:35:05+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indmind.ga/categories/journal/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -258,6 +292,12 @@
   <url>
     <loc>https://www.indmind.ga/tags/machine-learning/</loc>
     <lastmod>2018-06-23T17:56:24+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indmind.ga/tags/magang/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -310,6 +350,18 @@
   </url>
   
   <url>
+    <loc>https://www.indmind.ga/tags/pkl/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indmind.ga/categories/post/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.indmind.ga/tags/programming/</loc>
     <lastmod>2018-02-08T15:40:23+07:00</lastmod>
     <priority>0</priority>
@@ -330,6 +382,12 @@
   <url>
     <loc>https://www.indmind.ga/project/</loc>
     <lastmod>2018-06-23T17:56:24+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indmind.ga/tags/psg/</loc>
+    <lastmod>2020-01-19T09:22:26+07:00</lastmod>
     <priority>0</priority>
   </url>
   

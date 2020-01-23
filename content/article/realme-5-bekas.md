@@ -3,7 +3,7 @@ title: "Realme 5 Bekas"
 date: 2020-01-07T07:43:57+07:00
 
 featuredImage: "/images/realme.jpg"
-categories: ["Barang Beks", "Bahasa Indonesia"]
+categories: ["Barang Bekas", "Bahasa Indonesia"]
 tags: ["hp", "bekas", "realme", "realme 5"]
 author: "indmind"
 ---
