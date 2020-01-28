@@ -2,9 +2,9 @@
 title: "Jurnal PKL Minggu 2"
 date: 2020-01-19T09:22:26+07:00
 
-featuredImage: "/images/pkl_m2.jpg"
-categories: ["post", "diary", "journal"]
-tags: ["intern", "internship", "pkl", "psg", "magang"]
+featuredImage: "/images/pkl/m2/jurnal.jpg"
+categories: ["post", "internship", "journal"]
+tags: ["intern", "diary", "pkl", "psg", "magang"]
 author: "indmind"
 ---
 

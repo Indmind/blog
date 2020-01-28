@@ -3,8 +3,8 @@ title: "Jurnal PKL Minggu 1"
 date: 2020-01-11T09:22:23+07:00
 
 featuredImage: "/images/pkl/m1/jurnal.jpg"
-categories: ["post", "diary", "journal"]
-tags: ["intern", "internship", "pkl", "psg", "magang"]
+categories: ["post", "internship", "journal"]
+tags: ["intern", "diary", "pkl", "psg", "magang"]
 author: "indmind"
 ---
 
