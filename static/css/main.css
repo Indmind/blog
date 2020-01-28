@@ -1,15 +1,14 @@
 article, .content {
-    border-radius: 10px !important;
+    border-radius: 5px !important;
 }
 
 .tags {
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 5px 5px;
 }
 
 img {
     width: 100%;
-    /* box-shadow: 0 5px 10px rgba(154,160,185,.025), 0 15px 40px rgba(166,173,201,.2); */
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .dflex {
